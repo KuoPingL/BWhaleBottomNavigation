@@ -1,0 +1,3 @@
+include ':bwbottomnavigation'
+include ':app'
+rootProject.name = "BWhaleLibrary"
